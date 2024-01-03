@@ -1,0 +1,6 @@
+NAME : Faraz Ahmed Khan
+AGE : 13
+GRADE : 9
+HOBBIES : Playing football, Reading books, etc...
+COUNTRY : India
+PROJECT NAME : Yoga ALign - Pro
